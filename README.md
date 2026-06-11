@@ -43,8 +43,8 @@
   />
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,commits,issues,contribs&show=prs_merged,prs_merged_percentage&card_width=390"
-    alt="Pull Requests"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d"
+    alt="Projeto em destaque"
   />
 </p>
 
