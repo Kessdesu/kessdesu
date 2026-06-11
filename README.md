@@ -40,7 +40,7 @@
 
 <img
   align="center"
-  width="440"
+  width="385"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=385"
   alt="Linguagens mais usadas"
 />
