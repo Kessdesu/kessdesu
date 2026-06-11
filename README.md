@@ -28,9 +28,7 @@
     src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E" 
   />
 </div>
-
 <br/>
-
 <div align="center">
   <img 
     height="180em" 
