@@ -23,29 +23,10 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    width="480"
-    src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=390"
-    alt="Estatísticas do GitHub"
-  />
-  <img 
-    width="390"
-    src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E&card_width=390"
-    alt="Sequência de contribuições"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=390"
-    alt="Linguagens mais usadas"
-  />
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d"
-    alt="Projeto em destaque"
-  />
+  <img width="200" src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=200" />
+  <img width="200" src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E&card_width=200" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=200" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=200" />
 </p>
 
 </div>
