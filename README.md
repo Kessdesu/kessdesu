@@ -78,6 +78,6 @@
 
 <div align="center">
 
-### ✨ "Tecnologia, eficiência e propósito caminhando juntos."
+###  "Tecnologia, eficiência e propósito caminhando juntos."
 
 </div>
