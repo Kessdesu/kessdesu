@@ -8,11 +8,7 @@
 * ⚒️ Vivência profissional em mineração, gestão de contratos e melhoria de processos;
 * 🎯 Objetivo: construir soluções que conectem tecnologia, eficiência e resultados reais.
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide_rank=true)
-
-<!-- Linguagens -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d)
-
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide_rank=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR" />
+</div>
