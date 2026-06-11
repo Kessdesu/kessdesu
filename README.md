@@ -8,4 +8,4 @@
 * ⚒️ Vivência profissional em mineração, gestão de contratos e melhoria de processos;
 * 🎯 Objetivo: construir soluções que conectem tecnologia, eficiência e resultados reais.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight)
