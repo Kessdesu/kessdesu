@@ -22,31 +22,29 @@
 
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img
-        width="420px"
-        src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" valign="top">
-      <img
-        width="420px"
-        src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues"
+/>
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E"
+/>
 
+<br/>
 <br/>
 
 <img
-  width="420px"
+  height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=8&size_weight=0.5&count_weight=0.5"
-  alt="Linguagens mais usadas"
+/>
+
+<br/>
+<br/>
+
+<img
+  width="850em"
+  src="https://github-profile-trophy.vercel.app/?username=Kessdesu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=4"
 />
 
 </div>
