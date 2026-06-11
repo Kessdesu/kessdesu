@@ -22,42 +22,34 @@
 
 ## 📊 Estatísticas do GitHub
 
-<a href="https://github.com/Kessdesu">
-  <img
-    align="center"
-    width="385"
-    src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=385"
-    alt="Estatísticas do GitHub"
-  />
-</a>
-<a href="https://github.com/Kessdesu">
-  <img
-    align="center"
-    width="385"
-    src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E&card_width=385"
-    alt="Sequência de contribuições"
-  />
-</a>
+<img
+  align="center"
+  width="385"
+  src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=385"
+  alt="Estatísticas do GitHub"
+/>
+<img
+  align="center"
+  width="385"
+  src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E"
+  alt="Sequência de contribuições"
+/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/Kessdesu">
-  <img
-    align="center"
-    width="385"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=385"
-    alt="Linguagens mais usadas"
-  />
-</a>
-<a href="https://github.com/Kessdesu/minha-feira">
-  <img
-    align="center"
-    width="385"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=385&description_lines_count=3"
-    alt="Projeto Minha Feira"
-  />
-</a>
+<img
+  align="center"
+  width="385"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=385"
+  alt="Linguagens mais usadas"
+/>
+<img
+  align="center"
+  width="385"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=385&description_lines_count=3"
+  alt="Projeto Minha Feira"
+/>
 
 </div>
 
