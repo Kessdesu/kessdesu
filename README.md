@@ -26,29 +26,29 @@
   <tr>
     <td align="center" width="25%">
       <img
-        width="215"
-        src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=215"
+        width="217"
+        src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=217"
         alt="Estatísticas do GitHub"
       />
     </td>
     <td align="center" width="25%">
       <img
-        width="215"
-        src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E&card_width=215"
+        width="217"
+        src="https://streak-stats.demolab.com?user=Kessdesu&theme=material-palenight&locale=pt_BR&border=2d2d2d&border_radius=15&background=292D3E&card_width=217"
         alt="Sequência de contribuições"
       />
     </td>
     <td align="center" width="25%">
       <img
-        width="215"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=215"
+        width="217"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kessdesu&layout=compact&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&langs_count=6&size_weight=0.5&count_weight=0.5&card_width=217"
         alt="Linguagens mais usadas"
       />
     </td>
     <td align="center" width="25%">
       <img
-        width="215"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=215"
+        width="217"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=217"
         alt="Projeto Minha Feira"
       />
     </td>
