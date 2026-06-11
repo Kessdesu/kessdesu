@@ -31,6 +31,8 @@
 
 </div>
 
+---
+
 ## 🚀 Tecnologias e ferramentas
 
 <div align="center">
