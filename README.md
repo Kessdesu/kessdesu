@@ -46,7 +46,7 @@
 />
 <img
   align="center"
-  width="440"
+  width="420"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Kessdesu&repo=minha-feira&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&card_width=385&description_lines_count=3"
   alt="Projeto Minha Feira"
 />
