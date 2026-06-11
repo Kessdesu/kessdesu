@@ -30,7 +30,6 @@
 </p>
 
 </div>
----
 
 ## 🚀 Tecnologias e ferramentas
 
