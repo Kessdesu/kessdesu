@@ -24,7 +24,7 @@
 
 <img
   align="center"
-  width="435"
+  width="440"
   src="https://github-readme-stats.vercel.app/api?username=Kessdesu&show_icons=true&theme=material-palenight&locale=pt-br&border_radius=15&border_color=2d2d2d&hide=stars,issues&card_width=385"
   alt="Estatísticas do GitHub"
 />
